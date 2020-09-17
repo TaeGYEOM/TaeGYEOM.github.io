@@ -86,7 +86,8 @@ comments: true
 > ## File
 
 - aerial_map: "py_satellite"모드로 래스터 화를 수행 할 때 사용되는 항공지도
-            래스터화: https://m.blog.naver.com/skkim12345/221351312903
+        
+        래스터화: https://m.blog.naver.com/skkim12345/221351312903
 
 - semantic_map: "py_semantic"모드로 래스터 화를 수행 할 때 사용되는 고화질 시맨틱 맵
 - sample.zarr: 샘플 데이터
