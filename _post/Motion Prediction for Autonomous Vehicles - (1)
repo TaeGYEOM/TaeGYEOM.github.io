@@ -1,3 +1,17 @@
+---
+layout: post
+title: "Kaggle, Motion Prediction - 대회정보 정리"
+date: 2020-09-17
+excerpt: "Minimal, one column Jekyll theme for your blog."
+project: true
+tag:
+- Kaggle 
+- Motion Prediction
+- Lyft
+- Autonomous Vehicles
+comments: true
+---
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
