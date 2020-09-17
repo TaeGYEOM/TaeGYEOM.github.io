@@ -47,9 +47,9 @@ comments: true
     + 주어진 데이터(X)만으로 미지의 최적 모델 파라미터(W)를 찾아야 한다.
     + 입력값 X와 파라메터 W가 주어졌을 때 정답 Y가 나타날 확률, 즉 우도 P(Y|X;W)를 최대화하는 W가 바로 우리가 찾고 싶은 결과라고 볼 수 있다.
 
-    - Loss function으로 음의 로그우도(negative log-likelihood)를 사용한다
+- Loss function으로 음의 로그우도(negative log-likelihood)를 사용한다
 
-    참고: https://ratsgo.github.io/deep%20learning/2017/09/24/loss/
+        참고: https://ratsgo.github.io/deep%20learning/2017/09/24/loss/
 
 >  ## Submission File
 
