@@ -1,6 +1,15 @@
-
-
-
+---
+layout: post
+title:  "First Kaggle Challenge_Motion Prediction"
+date:   2020-09-17
+excerpt: "Lyft Motion Prediction for Autonomous Vehicles-(1)"
+project: true
+tag:
+- Motion Prediction
+- Autonomous Vehicles
+- Kaggle
+comments: true
+---
 
 
 # __Overview__
