@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Moon Jekyll Theme"
+date:   2016-04-06
+excerpt: "Minimal, one column Jekyll theme for your blog."
+project: true
+tag:
+- Motion Prediction
+- Autonomous Vehicles
+- Kaggle
+comments: true
+---
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
